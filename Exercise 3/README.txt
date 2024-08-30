@@ -1,0 +1,1 @@
+g++ -o askisi2 main.cpp parent.cpp parentnode.cpp parentqueue.cpp school.cpp

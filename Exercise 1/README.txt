@@ -1,0 +1,1 @@
+g++ -o askisi1 main.cpp visitor.cpp groundhall.cpp hall.cpp floor.cpp lift.cpp office.cpp tower.cpp receptionist.cpp
